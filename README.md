@@ -1,4 +1,3 @@
-<meta name="author" content="[João Henrique Saraceni Novaes]">
 <p align="center">
   <img src="https://www.thedatalab.com/wp-content/uploads/2018/01/WiDS-datathon.png" />
 </p>
