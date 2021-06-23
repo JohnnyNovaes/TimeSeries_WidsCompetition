@@ -34,3 +34,10 @@ The order to read this project is as follows:
 2. [Baseline Models](/Baseline%20Models.ipynb)
 3. [Data Preparation & Modeling](/Data%20Preparaion%20%26%20Modeling.ipynb)
 
+# Team & Leaderboard
+
+### Team
+<a href="https://ibb.co/sHYTScb"><img src="https://i.ibb.co/pyFHDNb/members.png" alt="members" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>fotos tumblr de best friends</a><br />
+
+### Leaderboard
+<a href="https://ibb.co/fqx5n1M"><img src="https://i.ibb.co/mbcwXDJ/leaderboard.png" alt="leaderboard" border="0"></a>
