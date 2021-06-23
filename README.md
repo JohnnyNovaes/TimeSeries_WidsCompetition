@@ -21,3 +21,16 @@ Daily COVID data in each Texas county (since early 2020)
 Participants are encouraged to use additional publicly available data besides the data repository if they believe it could improve the model.
 
 ![alt text](https://github.com/JohnnyNovaes/TimeSeries_WidsCompetition/blob/main/data/ercotWeatherZoneMap.png?raw=true)
+
+# Solution
+
+The chosen solution was based on the results of major competitions such as the [M5 Competition](https://mofc.unic.ac.cy/m5-competition/) and [papers](/docs) aimed at forecasting energy demand.
+
+Two models were used to forecast the demand for the 8 regions. The first is a decision tree boosting [LightGBM](https://lightgbm.readthedocs.io/en/latest/) and the other is an RNN(LSTM) deep learning model. After the forecast of the two models, an average of the values was calculated and the best result was reached when comparing each of the separate models.
+
+The order to read this project is as follows:
+
+1. [Data Understanding](/Data%20Understanding.ipynb)
+2. [Baseline Models](/Baseline%20Models.ipynb)
+3. [Data Preparation & Modeling](/Data%20Preparaion%20%26%20Modeling.ipynb)
+
